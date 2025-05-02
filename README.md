@@ -47,6 +47,7 @@ The simulation is currently running in **FAST MODE** (`usleep(100000)`) to speed
 │   └── Output3.txt         # N=15 simulation
 ├── README.md               # This file
 └── Project 3 Report.txt    # Project documentation
+```
 
 ## Compilation Instructions
 
